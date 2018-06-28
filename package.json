@@ -1,0 +1,10 @@
+{
+  "name": "tested-todo-app",
+  "version": "1.0.0",
+  "description": "Next iteration on my practice todo app, this time with TDD.",
+  "main": "index.js",
+  "repository": "git@github.com:anthonynorton/tested-todo-app.git",
+  "author": "Anthony Norton <nortonanthonya@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
